@@ -60,7 +60,7 @@ module ietf-microwave-radio-link {
   // replace the revision date with the module publication date
   // the format is (year-month-day)
 
-  revision 2024-03-03 {
+  revision 2024-10-24 {
     description
       "pretty printing";
     reference
